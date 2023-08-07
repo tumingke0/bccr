@@ -1,5 +1,5 @@
 {
-  "name": "antchain/bccr",
+  "name": "tumk/bccr",
   "description": "Ant Chain SDK Library for PHP",
   "type": "library",
   "license": "Apache-2.0",
